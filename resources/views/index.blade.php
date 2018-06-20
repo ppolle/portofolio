@@ -84,10 +84,7 @@
                         <a href="#" class="thumbnail">
                           <img src="assets/images/portfolio/hood.jpg" alt="...">
                         </a>
-                        <div class="overlay">
-                           <h2>Hover effect 3</h2>
-                           <a class="info" href="#">link here</a>
-                        </div>
+                       
                     </div>
                 </div>
 
@@ -150,88 +147,6 @@
         </div>
         <!-- .contaier -->
 
-
-       {{--  <ul class="portfolio-items-container">
-
-            <li class="portfolio-item" data-groups="all slideshow">
-                <figure>
-                    <img src="assets/images/p1-1.jpg" alt="">
-                    <figcaption>
-                        <a href="portfolio/slideshow.html" class=""></a>
-                        <div class="caption-inner">
-                            <h3 class="portfolio-item-title">Some work one</h3>
-                            <div class="portfolio-item-desc">Slideshow</div>
-                        </div>
-                    </figcaption>
-                </figure>
-            </li>
-
-            <li class="portfolio-item" data-groups="all video">
-                <figure>
-                    <img src="assets/images/p2-2.jpg" alt="">
-                    <figcaption>
-                        <a href="portfolio/video.html" class="simple-ajax-popup"></a>
-                        <div class="caption-inner">
-                            <h3 class="portfolio-item-title">Some work one</h3>
-                            <div class="portfolio-item-desc">Video</div>
-                        </div>
-                    </figcaption>
-                </figure>
-            </li>
-
-            <li class="portfolio-item" data-groups="all image">
-                <figure>
-                    <img src="assets/images/p3-3.jpg" alt="">
-                    <figcaption>
-                        <a href="portfolio/image.html" class=""></a>
-                        <div class="caption-inner">
-                            <h3 class="portfolio-item-title">Some work one</h3>
-                            <div class="portfolio-item-desc">Image</div>
-                        </div>
-                    </figcaption>
-                </figure>
-            </li>
-
-            <li class="portfolio-item" data-groups="all slideshow">
-                <figure>
-                    <img src="assets/images/p4-4.jpg" alt="">
-                    <figcaption>
-                        <a href="portfolio/slideshow.html" class="simple-ajax-popup"></a>
-                        <div class="caption-inner">
-                            <h3 class="portfolio-item-title">Some work one</h3>
-                            <div class="portfolio-item-desc">Slideshow</div>
-                        </div>
-                    </figcaption>
-                </figure>
-            </li>
-
-            <li class="portfolio-item" data-groups="all video">
-                <figure>
-                    <img src="assets/images/p5-5.jpg" alt="">
-                    <figcaption>
-                        <a href="portfolio/video.html" class="simple-ajax-popup"></a>
-                        <div class="caption-inner">
-                            <h3 class="portfolio-item-title">Some work one</h3>
-                            <div class="portfolio-item-desc">Video</div>
-                        </div>
-                    </figcaption>
-                </figure>
-            </li>
-
-            <li class="portfolio-item" data-groups="all image">
-                <figure>
-                    <img src="assets/images/p6-6.jpg" alt="">
-                    <figcaption>
-                        <a href="portfolio/image.html" class="simple-ajax-popup"></a>
-                        <div class="caption-inner">
-                            <h3 class="portfolio-item-title">Some work one</h3>
-                            <div class="portfolio-item-desc">Image</div>
-                        </div>
-                    </figcaption>
-                </figure>
-            </li>
-
-        </ul>  --}}
 
      </section>
 
