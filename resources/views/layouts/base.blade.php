@@ -20,6 +20,7 @@
     @include('partials._home')
 
     <!-- Home end -->
+    
     @yield('content')
 
    

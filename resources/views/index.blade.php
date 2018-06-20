@@ -80,13 +80,13 @@
         </div>
         <!-- .contaier -->
 
-        <ul class="portfolio-items-container">
+       {{--  <ul class="portfolio-items-container">
 
             <li class="portfolio-item" data-groups="all slideshow">
                 <figure>
                     <img src="assets/images/p1-1.jpg" alt="">
                     <figcaption>
-                        <a href="portfolio/slideshow.html" class="simple-ajax-popup"></a>
+                        <a href="portfolio/slideshow.html" class=""></a>
                         <div class="caption-inner">
                             <h3 class="portfolio-item-title">Some work one</h3>
                             <div class="portfolio-item-desc">Slideshow</div>
@@ -112,7 +112,7 @@
                 <figure>
                     <img src="assets/images/p3-3.jpg" alt="">
                     <figcaption>
-                        <a href="portfolio/image.html" class="simple-ajax-popup"></a>
+                        <a href="portfolio/image.html" class=""></a>
                         <div class="caption-inner">
                             <h3 class="portfolio-item-title">Some work one</h3>
                             <div class="portfolio-item-desc">Image</div>
@@ -160,7 +160,7 @@
                 </figure>
             </li>
 
-        </ul> -->.projects-container
+        </ul>  --}}
 
      </section>
 
@@ -390,11 +390,11 @@
 
     <!-- Google Map start-->
 
-    <!-- <section id="map-section">
+{{--     <section id="map-section">
 
         <div id="map"></div>
 
-    </section> -->
+    </section> --}}
 
     <!-- Google Map end -->
 
