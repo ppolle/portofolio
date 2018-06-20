@@ -76,9 +76,80 @@
             </div><!-- .row -->
 
             <!-- Portfolio Filter end -->
+            <div class="row">
 
+               
+                <div class="col-md-4">
+                    <div class="hovereffect">
+                        <a href="#" class="thumbnail">
+                          <img src="assets/images/portfolio/hood.jpg" alt="...">
+                        </a>
+                        <div class="overlay">
+                           <h2>Hover effect 3</h2>
+                           <a class="info" href="#">link here</a>
+                        </div>
+                    </div>
+                </div>
+
+                  
+                 <div class="col-md-4">
+                        <div class="hovereffect">  
+                        <a href="#" class="thumbnail">
+                          <img src="assets/images/portfolio/insta.png" alt="...">
+                        </a>
+                      </div>
+                  </div>
+
+                  <div class="col-md-4">
+                       <div class="hovereffect">  
+                        <a href="#" class="thumbnail">
+                          <img src="assets/images/portfolio/mdt.jpg" alt="...">
+                        </a>
+                      </div>
+                  </div>
+                                 
+            </div>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="hovereffect">  
+                <a href="#" class="thumbnail">
+                  <img src="assets/images/portfolio/techie.jpg" alt="...">
+                </a>
+              </div>
+                 </div>
+
+              <div class="col-md-4">
+                <div class="hovereffect">  
+                <a href="#" class="thumbnail">
+                  <img src="assets/images/portfolio/thryft.jpg" alt="...">
+                </a>
+              </div>
+              </div>
+
+            <div class="col-md-4">
+                <div class="hovereffect">  
+                <a href="#" class="thumbnail">
+                  <img src="assets/images/portfolio/user_lookup.jpg" alt="...">
+                </a>
+              </div>
+            </div>
+            </div>
+
+            <div class="row">
+                 <div class="col-md-4">
+                    <div class="hovereffect">  
+                    <a href="#" class="thumbnail">
+                      <img src="assets/images/portfolio/news.jpg" alt="...">
+                    </a>
+                  </div>
+                  </div>
+                
+            </div>
+             
+              
         </div>
         <!-- .contaier -->
+
 
        {{--  <ul class="portfolio-items-container">
 
