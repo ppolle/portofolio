@@ -17,7 +17,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="index.html">Peter Polle</a>
+                    <a class="navbar-brand" href="/">Peter Polle</a>
                 </div>
 
                 <div class="collapse navbar-collapse" id="custom-collapse">
@@ -140,6 +140,7 @@
                     </a>
                   </div>
                   </div>
+
                 
             </div>
              
@@ -410,14 +411,14 @@
                 <div class="col-sm-6 col-sm-offset-3">
 
                     <form id="contact-form" role="form">
-                        <div class="ajax-hidden">
+                        
                             <div class="form-group wow fadeInUp">
-                                <label class="sr-only" for="c_name">Name</label>
+                                <label class="sr-only" >Name</label>
                                 <input type="text" id="c_name" class="form-control" name="c_name" placeholder="Name">
                             </div>
 
                             <div class="form-group wow fadeInUp" data-wow-delay=".1s">
-                                <label class="sr-only" for="c_email">Email address</label>
+                                <label class="sr-only" >Email address</label>
                                 <input type="email" id="c_email" class="form-control" name="c_email" placeholder="E-mail">
                             </div>
 
@@ -427,8 +428,8 @@
 
                             <button type="submit" class="btn btn-block btn-custom-2 wow fadeInUp" data-wow-delay=".3s">Send it
                             </button>
-                        </div>
-                        <div class="ajax-response"></div>
+                       
+                        
                     </form>
 
                 </div>
