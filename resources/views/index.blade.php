@@ -85,7 +85,8 @@
                           <img src="assets/images/portfolio/hood.jpg" alt="...">
                           <div class="caption">
                               <h3>Iclone</h3>
-                              <a href="" class="btn btn-sm btn-custom-2">Link</a>
+                              <p><a href="" class="btn btn-sm btn-custom-2">Link</a></p>
+                              
                           </div>
                         </div>
                        
@@ -163,6 +164,7 @@
                       <img src="assets/images/portfolio/news.jpg" alt="...">
                       <div class="caption">
                           <h3>Iclone</h3>
+
                           <a href="" class="btn btn-sm btn-custom-2">Link</a>
                       </div>
                     </div>
