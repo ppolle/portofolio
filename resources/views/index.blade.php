@@ -81,9 +81,13 @@
                
                 <div class="col-md-4">
                     <div class="hovereffect">
-                        <a href="#" class="thumbnail">
+                        <div href="#" class="thumbnail">
                           <img src="assets/images/portfolio/hood.jpg" alt="...">
-                        </a>
+                          <div class="caption">
+                              <h3>Iclone</h3>
+                              <a href="" class="btn btn-sm btn-custom-2">Link</a>
+                          </div>
+                        </div>
                        
                     </div>
                 </div>
@@ -91,17 +95,25 @@
                   
                  <div class="col-md-4">
                         <div class="hovereffect">  
-                        <a href="#" class="thumbnail">
+                        <div href="#" class="thumbnail">
                           <img src="assets/images/portfolio/insta.png" alt="...">
-                        </a>
+                          <div class="caption">
+                              <h3>Iclone</h3>
+                              <a href="" class="btn btn-sm btn-custom-2">Link</a>
+                          </div>
+                        </div>
                       </div>
                   </div>
 
                   <div class="col-md-4">
                        <div class="hovereffect">  
-                        <a href="#" class="thumbnail">
+                        <div href="#" class="thumbnail">
                           <img src="assets/images/portfolio/mdt.jpg" alt="...">
-                        </a>
+                          <div class="caption">
+                              <h3>Iclone</h3>
+                              <a href="" class="btn btn-sm btn-custom-2">Link</a>
+                          </div>
+                        </div>
                       </div>
                   </div>
                                  
@@ -109,25 +121,37 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="hovereffect">  
-                <a href="#" class="thumbnail">
+                <div href="#" class="thumbnail">
                   <img src="assets/images/portfolio/techie.jpg" alt="...">
-                </a>
+                  <div class="caption">
+                      <h3>Iclone</h3>
+                      <a href="" class="btn btn-sm btn-custom-2">Link</a>
+                  </div>
+                </div>
               </div>
                  </div>
 
               <div class="col-md-4">
                 <div class="hovereffect">  
-                <a href="#" class="thumbnail">
+                <div href="#" class="thumbnail">
                   <img src="assets/images/portfolio/thryft.jpg" alt="...">
-                </a>
+                  <div class="caption">
+                      <h3>Iclone</h3>
+                      <a href="" class="btn btn-sm btn-custom-2">Link</a>
+                  </div>
+                </div>
               </div>
               </div>
 
             <div class="col-md-4">
                 <div class="hovereffect">  
-                <a href="#" class="thumbnail">
+                <div href="#" class="thumbnail">
                   <img src="assets/images/portfolio/user_lookup.jpg" alt="...">
-                </a>
+                  <div class="caption">
+                      <h3>Iclone</h3>
+                      <a href="" class="btn btn-sm btn-custom-2">Link</a>
+                  </div>
+                </div>
               </div>
             </div>
             </div>
@@ -135,9 +159,13 @@
             <div class="row">
                  <div class="col-md-4">
                     <div class="hovereffect">  
-                    <a href="#" class="thumbnail">
+                    <div href="#" class="thumbnail">
                       <img src="assets/images/portfolio/news.jpg" alt="...">
-                    </a>
+                      <div class="caption">
+                          <h3>Iclone</h3>
+                          <a href="" class="btn btn-sm btn-custom-2">Link</a>
+                      </div>
+                    </div>
                   </div>
                   </div>
 
@@ -209,6 +237,7 @@
                         <div class="iconbox-text">
                             <h3 class="iconbox-title">Front End Development</h3>
                             <div class="iconbox-desc">
+                                HTML5, CSS, ANGULARJS, BOOTSTRAP, FOUNDATION
                                 
                             </div>
                         </div>
@@ -225,6 +254,7 @@
                         <div class="iconbox-text">
                             <h3 class="iconbox-title">Back-End Development</h3>
                             <div class="iconbox-desc">
+                                PYTHON,PHP,LARAVEL,FLASK,DJANGO, MYSQL,POSTGRESQL
                                 
                             </div>
                         </div>
@@ -241,6 +271,7 @@
                         <div class="iconbox-text">
                             <h3 class="iconbox-title">User Support</h3>
                             <div class="iconbox-desc">
+                                END USER SUPPORT, PROGRAM TROUBLESHOOTING
                             
                             </div>
                         </div>
@@ -307,7 +338,7 @@
                             <div class="iconboxleft-text">
                                 <h3 class="iconboxleft-title">Goal Oriented</h3>
                                 <div class="iconboxleft-desc">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                                    Once I set my eyes on a particular goal, there is no stopping me untill I achieve said goal. I call it ruthless focus!
                                 </div>
                             </div>
                         </div>
@@ -323,7 +354,7 @@
                             <div class="iconboxleft-text">
                                 <h3 class="iconboxleft-title">Team Player</h3>
                                 <div class="iconboxleft-desc">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                                    Working solo just isnt fun enough. I prefer being part of a wolfpack.
                                 </div>
                             </div>
                         </div>
@@ -343,7 +374,7 @@
                             <div class="iconboxleft-text">
                                 <h3 class="iconboxleft-title">Linux User</h3>
                                 <div class="iconboxleft-desc">
-                                    Thus, then, one of our own noble stamp, even a whaleman, is the tutelary guardian of England.
+                                   Once was a child, not knowing the ways of the world. Now I know better, Linux is king!
                                 </div>
                             </div>
                         </div>
@@ -359,7 +390,7 @@
                             <div class="iconboxleft-text">
                                 <h3 class="iconboxleft-title">Back-end Ninja</h3>
                                 <div class="iconboxleft-desc">
-                                    Thus, then, one of our own noble stamp, even a whaleman, is the tutelary guardian of England.
+                                   Although I am comfortable working on both front-end and back-end technologies, back-end is my forte, my home.
                                 </div>
                             </div>
                         </div>
@@ -374,16 +405,6 @@
     </section>
 
     <!-- About end -->
-
-    <!-- Google Map start-->
-
-{{--     <section id="map-section">
-
-        <div id="map"></div>
-
-    </section> --}}
-
-    <!-- Google Map end -->
 
     <!-- Contact start -->
 
