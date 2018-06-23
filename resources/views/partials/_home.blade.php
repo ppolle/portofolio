@@ -2,7 +2,7 @@
 
         <div class="intro">
             <div class="hello">Hello, my name is Peter Polle and</div>
-            <h1>I am Full-Stack Developer</h1>
+            <h1>I am A Full-Stack Developer</h1>
             <div class="who-creates">creating cutting edge web applications for the modern world</div>
         </div>
 
